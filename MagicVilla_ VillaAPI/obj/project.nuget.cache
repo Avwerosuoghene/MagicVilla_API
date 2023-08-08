@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Iu96VCQh2dYPfOG8Zv0X6ouIF94JekjDysEwBTLWUlnzljkNDLub8qKQRItpFif9urhXg888YcrRl9W+rQzHSw==",
+  "success": true,
+  "projectFilePath": "/Users/avwerosuoghenedarhare-igben/Documents/DotNet/Web API Course' /MagicVilla/MagicVilla_ VillaAPI/MagicVilla_ VillaAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/avwerosuoghenedarhare-igben/.nuget/packages/microsoft.aspnetcore.openapi/7.0.9/microsoft.aspnetcore.openapi.7.0.9.nupkg.sha512",
+    "/Users/avwerosuoghenedarhare-igben/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/avwerosuoghenedarhare-igben/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/avwerosuoghenedarhare-igben/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/avwerosuoghenedarhare-igben/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/avwerosuoghenedarhare-igben/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/avwerosuoghenedarhare-igben/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
